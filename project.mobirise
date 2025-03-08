@@ -265,7 +265,7 @@
     "uniqCompNum": 0,
     "imageResize": true,
     "imageSearchQuery": "gourmet",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "publishEditFolder": true,
     "favicon": "@PROJECT_PATH@/assets/images/fdfsfs.png-128x127_1.png",
     "robotsSwitcher": false,
