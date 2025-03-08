@@ -265,7 +265,7 @@
     "uniqCompNum": 0,
     "imageResize": true,
     "imageSearchQuery": "gourmet",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "publishEditFolder": true,
     "favicon": "@PROJECT_PATH@/assets/images/fdfsfs.png-128x127_1.png",
     "robotsSwitcher": false,
@@ -294,7 +294,7 @@
     "sitemapSwitcher": false,
     "siteUrl": false,
     "sitemapSwitcherAuto": "on",
-    "mbrsiteDomain": "suo1ebbf8n",
+    "mbrsiteDomain": "cqhsepojsm",
     "usedWebp": false
   },
   "pages": {
